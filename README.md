@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+![proj6](https://user-images.githubusercontent.com/91610919/217024654-49a2c7dc-7e9e-4b72-bb80-d58214680106.png)
 
+<h1>This is a React JS App which Displays the News of the Crypto currencies on Real time using a Coins API</h1>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
